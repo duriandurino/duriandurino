@@ -13,9 +13,9 @@ public class Hello{
 - 📫 How to reach me ...(no, you can't)
 
 I'm never:
-- [x] Gonna give you up
-- [x] Gonna let you down
-- [x] Gonna desert you
+- [ ] Gonna give you up
+- [ ] Gonna let you down
+- [ ] Gonna desert you
 <!---
 duriandurino/duriandurino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
