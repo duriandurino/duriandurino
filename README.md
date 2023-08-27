@@ -7,16 +7,10 @@ public class Hello{
 }
 ```
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
 - 👋 Hi, I’m @duriandurino
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in beautiful women
+- 🌱 I’m currently learning how to do OOP
+- 📫 How to reach me ...(no, you can't)
 
 <!---
 duriandurino/duriandurino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
