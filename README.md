@@ -7,6 +7,11 @@ public class Hello{
 }
 ```
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 - 👋 Hi, I’m @duriandurino
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
