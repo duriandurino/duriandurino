@@ -8,7 +8,7 @@ public class Hello{
 ```
 
 - 👋 Hi, I’m @duriandurino
-- 👀 I’m interested in beautiful women
+- 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning how to do OOP
 - 📫 How to reach me ...(no, you can't)
 
