@@ -11,23 +11,19 @@ public class Hello{
 
 <br clear="both">
 
-<h2 align="left">Technology</h2>
+<h2 align="left">Knows:</h2>
 
 ###
 
 <div align="left">
-  <a href="https://javascript.info/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> </a>
-  <img width="12" /> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />  </a>
   <img width="12" /> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /> </a>
   <img width="12" /> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"   height="40" alt="c logo"  /> </a>
-  <img width="12" /> 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />  </a>
-  <img width="12" /> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /> </a>
-  <img width="12" /> 
+  <img width="12" />
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="40" alt="c logo"  /> </a>
+  <img width="12" />
 </div>
 
 ###
