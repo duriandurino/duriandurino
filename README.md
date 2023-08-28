@@ -31,12 +31,11 @@ public class Hello{
 </div>
 
 ###
-
-<h2 align="left">Knows:</h2>
+<br clear="both">
+<h2 align="left">Im never: </h2>
 
 ###
 
-I'm never:
 - [x] Gonna give you up
 - [x] Gonna let you down
 - [x] Gonna turn around and desert you
