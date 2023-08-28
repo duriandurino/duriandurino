@@ -6,6 +6,10 @@ public class Hello{
   }
 }
 ```
+- 👋 Hi, I’m @duriandurino
+- 👀 I’m interested in mobile app development
+- 🌱 I’m currently learning how to do OOP
+- 📫 How to reach me ...(no, you can't)
 
 ###
 
@@ -27,11 +31,6 @@ public class Hello{
 </div>
 
 ###
-
-- 👋 Hi, I’m @duriandurino
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning how to do OOP
-- 📫 How to reach me ...(no, you can't)
 
 I'm never:
 - [x] Gonna give you up
