@@ -35,7 +35,7 @@ public class Hello{
 I'm never:
 - [x] Gonna give you up
 - [x] Gonna let you down
-- [x] Gonna desert you
+- [x] Gonna turn around and desert you
 <!---
 duriandurino/duriandurino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
