@@ -6,9 +6,9 @@ public class Hello{
   }
 }
 ```
-- 👋 Hi, I’m @duriandurino
+- 👋 Hi, I’m Adrian C. Alejandrino
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning how to do OOP
+- 🌱 I’m currently learning how to Javascript
 - 📫 How to reach me ...(no, you can't)
 
 ###
