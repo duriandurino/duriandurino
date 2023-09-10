@@ -1,11 +1,4 @@
 
-```Java
-public class Hello{
-  public static void main(String[]args){
-    System.out.println("Hello World");
-  }
-}
-```
 - 👋 Hi, I’m Adrian C. Alejandrino
 - 👀 I’m interested in mobile app development
 - 🌱 I’m currently learning Javascript
