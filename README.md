@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Adrian C. Alejandrino
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Data Structures
 - 📫 How to reach me ...(no, you can't)
 
 ###
