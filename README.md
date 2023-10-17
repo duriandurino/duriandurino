@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Adrian C. Alejandrino
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning ReactJS
 - 📫 How to reach me ...(no, you can't)
 
 ###
