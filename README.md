@@ -27,8 +27,8 @@
   <img width="12" />
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/159/PNG/256/arduino_22429.png" height="40" alt="c logo"  /> </a>
   <img width="12" />
-  <a href="https://javascript.info/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> </a>
-  <img width="12" />
+  <!--<a href="https://javascript.info/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /> </a>
+  <img width="12" />-->
 </div>
 
 ###
