@@ -23,8 +23,6 @@
   <img width="25" />
   <img src="https://www.svgrepo.com/show/353751/flutter.svg" height="50" alt="javascript logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="50" alt="tailwindcss logo"  />
 </div>
 
