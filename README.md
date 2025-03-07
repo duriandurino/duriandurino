@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=duriandurino&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=duriandurino&theme=buefy-dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=AyaCoders&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Github%20Status" height="150" alt="stats graph"  />
 </div>
 
