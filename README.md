@@ -17,15 +17,3 @@
   <img width="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" height="50" alt="tailwindcss logo"  />
 </div>
-
-
-<br/>
-<h3 align="center">Status</h3>
-
-###
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=duriandurino&theme=dark" alt="GitHub Streak" /></a>
-</div>
-
-###
