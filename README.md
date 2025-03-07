@@ -24,6 +24,7 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=duriandurino)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=duriandurino&theme=dark&type=png" alt="GitHub Streak" /></a>
+</div>
 ###
