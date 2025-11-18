@@ -16,7 +16,7 @@ With experience spanning from IoT systems to full-stack web development, I enjoy
 Developing enterprise applications with ASP.NET, designing database architectures, and building IoT-integrated systems. Contributing to frontend development, backend migrations, and cross-functional team collaboration.
 
 **Freelance Full Stack Developer** *(March 2024 - Present)*  
-Specializing in IoT solutions and AI integration. Working with embedded systems (ESP32, ESP8266, Arduino) and implementing Gemini AI for intelligent recommendations and analytics in mobile and web applications.
+Specializing in IoT solutions and AI integration. Working with embedded systems (ESP32, ESP8266, Arduino) and implementing AI for intelligent recommendations and analytics in mobile and web applications.
 
 ---
 
