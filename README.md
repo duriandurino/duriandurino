@@ -1,25 +1,17 @@
 # Hi there, I'm Adrian Alejandrino 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=duriandurino&color=blue&style=flat-square)
-
-## 🎓 About Me
-
-I'm a **Software Developer** and **IT student** at the University of Cebu - Banilad, passionate about building innovative solutions that bridge hardware and software. Currently working on **SigniFi**, a deep learning-based Filipino Sign Language learning platform that leverages LSTM action recognition and multi-modal computer vision to make language learning more accessible.
-
-With experience spanning from IoT systems to full-stack web development, I enjoy tackling complex technical challenges and creating meaningful applications that solve real-world problems.
-
----
-
 ## 💼 Professional Experience
+**Software Developer @ Cubeworks**
+*(March 2024 - Present)*
 
-**Software Developer @ Cubeworks** *(March 2024 - Present)*  
 Developing enterprise applications with ASP.NET, designing database architectures, and building IoT-integrated systems. Contributing to frontend development, backend migrations, and cross-functional team collaboration.
 
-**Freelance Full Stack Developer** *(March 2024 - Present)*  
+**Freelance Full Stack Developer**
+*(March 2024 - Present)*
+
 Specializing in IoT solutions and AI integration. Working with embedded systems (ESP32, ESP8266, Arduino) and implementing AI for intelligent recommendations and analytics in mobile and web applications.
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -30,6 +22,7 @@ Specializing in IoT solutions and AI integration. Working with embedded systems 
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,12 +32,14 @@ Specializing in IoT solutions and AI integration. Working with embedded systems 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **IoT & Embedded Systems**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -58,7 +53,6 @@ Specializing in IoT solutions and AI integration. Working with embedded systems 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 📱 SigniFi - Filipino Sign Language Learning Platform
@@ -66,60 +60,22 @@ Specializing in IoT solutions and AI integration. Working with embedded systems 
 
 A comprehensive learning platform that uses Long Short-Term Memory (LSTM) networks and multi-modal computer vision to teach Filipino Sign Language. The system recognizes hand gestures in real-time and provides interactive learning experiences for users.
 
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV, React, Firebase
+**Tech Stack:**
+Python, TensorFlow, Keras, OpenCV, React, Firebase
 
 ---
-
 ### 🏠 Filipino Homes Hackathon Project
 *Project Management | Full Stack Development | Rapid Prototyping*
 
 Led a cross-functional team in developing a housing solution during a competitive hackathon environment. Managed the entire project lifecycle from ideation to pitch presentation, demonstrating leadership and technical versatility.
 
-**Role:** Project Manager / Hustler | **Achievement:** Successfully pitched to judges with comprehensive deck
+**Role:**
+Project Manager / Hustler | 
+**Achievement:**
+Successfully pitched to judges with comprehensive deck
 
 ---
-
 ## 📊 GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=duriandurino&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duriandurino&layout=compact&theme=radical&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duriandurino&theme=radical&hide_border=true)
-
----
-
-## 🏆 Achievements & Activities
-
-🎯 **Filipino Homes Hackathon** - Project Manager & Hustler  
-🔧 Contributed to enterprise-level IoT and web applications  
-🤖 Integrated AI capabilities into production mobile applications  
-💡 Active participant in tech community and open-source development
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrian-alejandrino-268102299)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrian.alejandrino.1115@gmail.com)
-
----
-
-## 💭 Current Focus
-
-🌱 Currently deepening my expertise in **Deep Learning** and **Computer Vision**  
-🔭 Working on **SigniFi** - Making sign language education more accessible  
-👯 Looking to collaborate on **IoT projects** and **AI-powered applications**  
-💬 Ask me about **React, Flutter, Arduino, ESP32, or AI integration**
-
----
-
-<div align="center">
-  
-### "Building bridges between hardware and software, one project at a time."
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-⭐️ From duriandurino(https://github.com/duriandurino)
-
-</div>
