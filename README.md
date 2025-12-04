@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian Alejandrino 👋
 
-[cite_start]4th Year BSIT Student at University of Cebu - Banilad [cite: 5, 8]
+4th Year BSIT Student at University of Cebu - Banilad
 ---
 ## 🛠️ Tech Stack
 
@@ -44,19 +44,19 @@
 ## 🚀 Featured Projects
 
 ### 📱 Link n Park (Innovate Cebu)
-*AI-Powered IoT | Prototype* [cite: 36, 37, 38]
+*AI-Powered IoT | Prototype* 
 An AI-powered automated parking management system prototype designed to modernize vehicle monitoring and space allocation.
 
 ### 🏠 Segurad Homes (HackEstate Hackathon)
-*Real Estate Tech | Web Application* [cite: 29, 31]
+*Real Estate Tech | Web Application*
 Developed a real-estate web application featuring digitalized contract binding to ensure secured online transactions for property leasing and sales.
 
 ### 🤝 TinabangAI (UC-ICT Congress Hackathon)
-*Disaster Response | Interactive Platform* [cite: 39, 41]
+*Disaster Response | Interactive Platform* 
 A platform designed for a modernized and interactive disaster response system, facilitating better coordination during emergencies.
 
 ### 📦 Aginod
-*Social Impact | Mobile App* [cite: 33, 35]
+*Social Impact | Mobile App* 
 A relief tracker application developed to organize and streamline donation drives for improved transparency and distribution.
 
 ### 🤟 SigniFi - Filipino Sign Language Learning Platform
