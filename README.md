@@ -1,7 +1,5 @@
 # Hi there, I'm Adrian Alejandrino 👋
 
-4th Year BSIT Student at University of Cebu - Banilad
----
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -39,29 +37,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-## 🚀 Featured Projects
-
-### 📱 Link n Park (Innovate Cebu)
-*AI-Powered IoT | Prototype* 
-An AI-powered automated parking management system prototype designed to modernize vehicle monitoring and space allocation.
-
-### 🏠 Segurad Homes (HackEstate Hackathon)
-*Real Estate Tech | Web Application*
-Developed a real-estate web application featuring digitalized contract binding to ensure secured online transactions for property leasing and sales.
-
-### 🤝 TinabangAI (UC-ICT Congress Hackathon)
-*Disaster Response | Interactive Platform* 
-A platform designed for a modernized and interactive disaster response system, facilitating better coordination during emergencies.
-
-### 📦 Aginod
-*Social Impact | Mobile App* 
-A relief tracker application developed to organize and streamline donation drives for improved transparency and distribution.
-
-### 🤟 SigniFi - Filipino Sign Language Learning Platform
-*Deep Learning | Computer Vision | Capstone*
-A comprehensive learning platform that uses Long Short-Term Memory (LSTM) networks and multi-modal computer vision to teach Filipino Sign Language.
 
 ---
 ## 📊 GitHub Stats
