@@ -1,6 +1,6 @@
 # Hi there, I'm Adrian Alejandrino
 
-# https://durino.vercel.app/
+https://durino.vercel.app/
 
 ## 🛠️ Tech Stack
 
