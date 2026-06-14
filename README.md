@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Adrian Alejandrino 👋
+# Adrian C. Alejandrino
 
-### Software Developer · Programmer · Lifelong Learner
+### Fullstack Developer · BSIT · Lifelong Learner
 
 <a href="https://durino.vercel.app">
   <img src="https://img.shields.io/badge/Visit_My_Portfolio-durino.vercel.app-7F3FBF?style=for-the-badge&logo=vercel&logoColor=white" alt="Adrian Alejandrino's Portfolio" />
@@ -36,7 +36,7 @@
 
 <br />
 
-## 📊 GitHub Statistics
+## GitHub Stats
 
 <p>
   <img
@@ -58,7 +58,7 @@ alt="Adrian's GitHub contribution streak"
 
 <br />
 
-### Thanks for visiting!
+### OSINT Count
 
 <img
 src="https://komarev.com/ghpvc/?username=duriandurino&style=for-the-badge&color=7F3FBF"
