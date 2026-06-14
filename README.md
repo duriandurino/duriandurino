@@ -11,7 +11,7 @@
 <br />
 <br />
 
-## ✨ “Que Sera, Sera” ✨
+## *“que sera, sera”*
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Whatever+will+be%2C+will+be.;Building+one+project+at+a+time.;Learning.+Creating.+Improving."
